@@ -13,5 +13,5 @@ If you are running dory the services will be at `gremlin-ui.docker:8183` and
 
 ## credit
 
-A good chunk of this came from (https://github.com/joov/gremlin-demo)[https://github.com/joov/gremlin-demo]
+A good chunk of this came from [https://github.com/joov/gremlin-demo](https://github.com/joov/gremlin-demo)
 check it out.
